@@ -44,6 +44,11 @@ Currently transitioning from Telecom to the Data domain — building expertise i
 
 ---
 
+### 🏆 GitHub Profile Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Rajarshi-ctrl&theme=onedark)
+
+---
+
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajarshidutta99)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Rajarshi-ctrl)
